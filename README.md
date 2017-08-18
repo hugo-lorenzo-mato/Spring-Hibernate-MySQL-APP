@@ -1,2 +1,2 @@
 # Spring-Hibernate-MySQL-APP
-Spring - Hibernate - MySQL: SpingBoot SpringMVC SpringSecurity JPA
+Spring - Hibernate - MySQL: SpringBoot SpringMVC SpringSecurity JPA thymeleaf
